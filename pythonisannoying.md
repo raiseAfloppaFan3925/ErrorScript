@@ -2,4 +2,4 @@
 I just wanna rant
 
 # About
-So basically I import a file that imports a method from the first file and there's no circular import errors. That's good right? WRONG!!! PYTHON STARTS YAPPING AND CAPPING ABOUT THE MODULE (folder) NOT EXisTiNg EVEN THOUGH IT DOES AND THE CODE AUTOCOMPLETE KNOWS IT EXISTS!!! PYTHON WHY?!
+So basically I import a file that imports a method from the first file and there's no circular import errors. That's good right? WRONG!!! PYTHON STARTS YAPPING AND CAPPING ABOUT THE MODULE (folder) NOT EXisTiNg EVEN THOUGH IT DOES AND THE CODE AUTOCOMPLETE KNOWS IT EXISTS!!! PYTHON WHY?! PYTHON CAN'T JUST SHUT UP AND DO WHAT IT'S TOLD TO DO, IT JUST HAS TO START FREAKING LYING AND THAT KIND OF GARBAGE, EVEN THOUGH THE CODE AUTOCOMPLETE AND THE OTHER SCRIPTS KNOW THAT SAID DIRECTORY EXISTS!!!
