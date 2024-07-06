@@ -1,3 +1,5 @@
+# Note: This file is a joke, please do not take this seriously, I'm just stupid
+
 # Why is this here?
 I just wanna rant
 
